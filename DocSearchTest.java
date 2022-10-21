@@ -22,7 +22,7 @@ public void testURLHandler() throws IOException, URISyntaxException {
 @Test
 public void testSearch() {
     URI y = new URI("/");
-    assertEquals()
+    assertEquals();
 }
 
 }
